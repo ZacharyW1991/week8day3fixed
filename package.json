@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "name": "day3homework",
+  "version": "1.0.0",
+  "main": "./homework/homework.ts",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
